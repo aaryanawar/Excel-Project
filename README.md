@@ -18,3 +18,12 @@ Enable interactive data exploration using Excel filters
 -At what time of day are the most orders placed?
 -How does sales performance change based on occasion, order date, and delivery date?
 
+## Excel Features 
+-Pivot Tables
+-Pivot Charts
+-Slicers
+-Timeline Filter
+-KPI Cards
+-Conditional Formatting
+-Data Validation
+-Excel Formulas 
